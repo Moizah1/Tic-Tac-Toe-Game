@@ -14,11 +14,6 @@ Play against it and the best you can achieve is a **draw** — it will never los
 - Restart anytime with a single keypress
 - Runs at 60 FPS with instant AI response (pruning keeps the search fast even though it explores the full game tree)
 
-## Requirements
-
-- Python 3.8+
-- [Pygame](https://www.pygame.org/) 2.x
-
 ## Installation
 
 1. Clone or download this repository / copy `tic_tac_toe.py` into a folder.
