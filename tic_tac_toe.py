@@ -1,18 +1,3 @@
-"""
-Unbeatable Tic-Tac-Toe
------------------------
-Human plays X, Computer plays O.
-The computer uses the Minimax algorithm (with alpha-beta pruning) to search
-every possible outcome of the game and always pick the move that is best
-for it -- meaning it can never lose. Best case for you: a draw.
-
-Controls:
-    - Click a cell to place your mark.
-    - Press R to restart after the game ends.
-    - Press ESC or close the window to quit.
-
-Run with:  python tic_tac_toe.py
-"""
 
 import sys
 import pygame
